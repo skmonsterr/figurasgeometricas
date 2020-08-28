@@ -1,8 +1,6 @@
 # Primeira Atividade Avaliativa - ADO 1
  
  ## **_VALOR 1,0_**
-
- ## Enviar uma pasta compactada com os arquivos para:
  
 ## Criar uma pasta com o nome figuras:
 
