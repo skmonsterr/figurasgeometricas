@@ -4,9 +4,6 @@
 
  ## Enviar uma pasta compactada com os arquivos para:
  
-* fabio.lcosta@sp.senac.br
-* Até o dia 10/09
-
 ## Criar uma pasta com o nome figuras:
 
 ### Nesta pasta salvar 6 imagens:
